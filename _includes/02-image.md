@@ -1,1 +1,1 @@
-![ my image ] (https://github.com/Gowrishankarvv/portfolio/blob/main/images/profile.jpg)
+! [ my image ]  (https://github.com/Gowrishankarvv/portfolio/blob/main/images/profile.jpg)
