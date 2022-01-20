@@ -1,2 +1,1 @@
-This image was taken from the video explaining how to use this future!
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+https://avatars.githubusercontent.com/u/89328469?s=400&u=1fef2505055be6eaa27ea740ba373468f1d8dada&v=4
